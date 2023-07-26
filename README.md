@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivy Lai Chun Chun @ivylaicc
 - 👀 I’m interested in reading and writing.
 - 🌱 I’m currently learning to ask inquisitive questions for research.
-- 💞️ I’m looking to collaborate on research.
+- 💞️ I’m looking to collaborate on interdisciplinary research.
 - 📫 How to reach me at ivy-chun-chun-lai@polyu.edu.hk
 
 <!---
