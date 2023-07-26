@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading and writing.
 - 🌱 I’m currently learning to ask inquisitive questions for research.
 - 💞️ I’m looking to collaborate on interdisciplinary research.
-- 📫 How to reach me at ivy-chun-chun-lai@polyu.edu.hk
+- 📫 How to reach me at ivy-chun-chun-lai@polyu.edu.hk.
 
 <!---
 ivylaicc/ivylaicc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
